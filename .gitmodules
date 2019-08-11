@@ -1,0 +1,6 @@
+[submodule "stk"]
+	path = stk
+	url = git@github.com:DISTRHO/stk.git
+[submodule "dpf"]
+	path = dpf
+	url = git@github.com:DISTRHO/DPF.git
